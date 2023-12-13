@@ -128,7 +128,11 @@ RegisterNumber:
 ![Screenshot 2023-11-22 142451](https://github.com/Thirumalai23013035/Experiment--05-Implementation-of-flipflops-using-verilog/assets/153185249/cf19e4e5-e0b5-4257-9896-26510a6881b5)
 ![Screenshot 2023-11-22 143002](https://github.com/Thirumalai23013035/Experiment--05-Implementation-of-flipflops-using-verilog/assets/153185249/aa4ae6cb-190d-44c2-99de-6a00ff4961d0)
 
+###TRUTH TABLE
+![th](https://github.com/Thirumalai23013035/Experiment--05-Implementation-of-flipflops-using-verilog/assets/153185249/773aa6c2-815a-4eb9-a7a1-ab94b659ffb8)
 
+![th](https://github.com/Thirumalai23013035/Experiment--05-Implementation-of-flipflops-using-verilog/assets/153185249/c4c86ec4-05f3-403c-ac19-bd6fdb44e361)
+![download](https://github.com/Thirumalai23013035/Experiment--05-Implementation-of-flipflops-using-verilog/assets/153185249/18405c74-b8ba-41b7-b23a-47df03c4d6fb)
 
 
 
