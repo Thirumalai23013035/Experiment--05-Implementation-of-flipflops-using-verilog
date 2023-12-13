@@ -103,8 +103,9 @@ Q(t+1)=T′Q(t)+TQ(t)′
 
 ### Procedure
 /* write all the steps invloved */
-
-
+![Screenshot 2023-11-26 170613](https://github.com/Thirumalai23013035/Experiment--05-Implementation-of-flipflops-using-verilog/assets/153185249/b3465483-d30b-40d7-9b0d-41206cea0990)
+![Screenshot 2023-11-26 210428](https://github.com/Thirumalai23013035/Experiment--05-Implementation-of-flipflops-using-verilog/assets/153185249/07e7165f-677d-4f28-a27f-10f4c5b3998b)
+![Screenshot 2023-11-26 204555](https://github.com/Thirumalai23013035/Experiment--05-Implementation-of-flipflops-using-verilog/assets/153185249/c69cfcf3-8b9f-4d3e-8afa-59cfaecf2bad)
 
 ### PROGRAM 
 /*
@@ -120,15 +121,23 @@ RegisterNumber:
 
 ### RTL LOGIC FOR FLIPFLOPS 
 
+![Screenshot 2023-11-26 165020](https://github.com/Thirumalai23013035/Experiment--05-Implementation-of-flipflops-using-verilog/assets/153185249/b5e20b22-d605-4c3d-bb76-c8f55638d7af)
+
+![Screenshot 2023-11-26 170739](https://github.com/Thirumalai23013035/Experiment--05-Implementation-of-flipflops-using-verilog/assets/153185249/dfd26fdb-aebc-4f4f-8c39-826ae61239cc)
+
+![Screenshot 2023-11-22 142451](https://github.com/Thirumalai23013035/Experiment--05-Implementation-of-flipflops-using-verilog/assets/153185249/cf19e4e5-e0b5-4257-9896-26510a6881b5)
+![Screenshot 2023-11-22 143002](https://github.com/Thirumalai23013035/Experiment--05-Implementation-of-flipflops-using-verilog/assets/153185249/aa4ae6cb-190d-44c2-99de-6a00ff4961d0)
 
 
 
 
 
 
+### TIMING DIGRAMS FOR FLIP FLOPS
+![Screenshot 2023-11-22 143128](https://github.com/Thirumalai23013035/Experiment--05-Implementation-of-flipflops-using-verilog/assets/153185249/dfbe1a52-14ed-4fec-a170-e10825dfc676)
 
-
-### TIMING DIGRAMS FOR FLIP FLOPS 
+![Screenshot 2023-11-26 164934](https://github.com/Thirumalai23013035/Experiment--05-Implementation-of-flipflops-using-verilog/assets/153185249/99c0d744-6ba6-4f57-be2e-118f04a4ce95)
+![Screenshot 2023-11-26 210612](https://github.com/Thirumalai23013035/Experiment--05-Implementation-of-flipflops-using-verilog/assets/153185249/daf6907c-fac9-48bb-87e9-d89ccd074839)
 
 
 
